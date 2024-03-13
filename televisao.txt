@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1	
+https://edge01.balticlivecam.com/anim/dobryDom/tracks-v1/mono.m3u8?token=fdbdf6c7cd5807b71183b4bb300cd62f%3A1710326287305
+#EXTINF:-2
+https://edge01.balticlivecam.com/anim/ElGatio/tracks-v1/mono.m3u8?token=3256ead58b92d4c5f947ae3edb1138c6%3A1710326470378
+#EXTINF:-3
+https://edge01.balticlivecam.com/anim/LesPrijut/tracks-v1/mono.m3u8?token=907e67397cf548b0a49d94906f83874c%3A1710326671579
+#EXTINF:-4
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w754771006_b744100_sleng.m3u8
